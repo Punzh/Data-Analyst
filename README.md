@@ -1,1 +1,1 @@
-การวิเคราะห์ข้อมูลโดยการใช้ excel สามารถกดที่ view raw เพื่อ Download file
+Data Analytics by excel, you can click view raw for Download file
